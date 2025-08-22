@@ -1,5 +1,5 @@
 # VRsoft_Test
-Implementação de desenvolvimento full-stack utilizando mensageria com o Rabbit
+Implementação full-stack utilizando Nest.Js, Angular, mensageria com Rabbit e criação de websocket.
 
 Front: notificacoes-app
 
